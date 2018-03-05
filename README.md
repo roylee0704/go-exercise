@@ -1,2 +1,0 @@
-# go-exercise
-execices
